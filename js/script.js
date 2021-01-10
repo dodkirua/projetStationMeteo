@@ -1,0 +1,1 @@
+api.openweathermap.org/data/2.5/weather?q=Anor,fr&appid=040e527c23f29a6ebad79ac9bb403d9e&units=metric&lang=fr
